@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="680" viewBox="0 0 1100 680" role="img" aria-labelledby="title desc">
+<title id="title">ladytime – RPG-Regelwerk für MyBB</title><desc id="desc">Schematische Vorschau mit linker Regelnavigation, rechtem Textbereich, Registrierung mit Zustimmung und einer ACP-Verwaltung. Ausschließlich Demo-Inhalte.</desc>
+<rect width="1100" height="680" fill="#eef2f5"/>
+<g font-family="Arial, sans-serif" fill="#263b4e">
+<text x="40" y="48" font-size="25" font-weight="bold">ladytime · RPG-Regelwerk für MyBB</text>
+<text x="40" y="78" font-size="15">Dein Regelwerk. Dein Theme. Alles direkt im Adminbereich.</text>
+<rect x="40" y="104" width="1020" height="50" fill="#215f89"/><text x="60" y="136" font-size="18" fill="white">Regeln</text>
+<rect x="40" y="166" width="236" height="308" fill="white" stroke="#c5d0d9"/>
+<rect x="40" y="166" width="236" height="38" fill="#dbe5ed"/>
+<text x="56" y="190" font-size="15" font-weight="bold">Regelbereiche</text>
+<text x="56" y="234" font-size="13" font-weight="bold">ALLGEMEIN</text>
+<rect x="48" y="247" width="220" height="36" fill="#edf4f9"/>
+<text x="60" y="270" font-size="15" fill="#215f89">§ Forumsregeln</text>
+<text x="60" y="309" font-size="15" fill="#215f89">↗ Eigener Link</text>
+<text x="56" y="353" font-size="13" font-weight="bold">ROLLENSPIEL</text>
+<text x="60" y="387" font-size="15" fill="#215f89">✦ Schreibregeln</text>
+<text x="60" y="426" font-size="15" fill="#215f89">Weitere eigene Bereiche …</text>
+<rect x="292" y="166" width="768" height="308" fill="white" stroke="#c5d0d9"/>
+<rect x="292" y="166" width="768" height="38" fill="#dbe5ed"/>
+<text x="312" y="190" font-size="16" font-weight="bold">Forumsregeln</text>
+<text x="312" y="240" font-size="18" font-weight="bold">Platz für deine eigenen Inhalte</text>
+<text x="312" y="275" font-size="15">Kategorien, Überschriften, Texte und Links legst du selbst an.</text>
+<text x="312" y="304" font-size="15">Hier werden bewusst keine fertigen Hausregeln mitgeliefert.</text>
+<text x="312" y="347" font-size="15">• Farben und Schrift kommen aus deinem MyBB-Theme.</text>
+<text x="312" y="376" font-size="15">• Ein Klick links öffnet den gewünschten Bereich.</text>
+<text x="312" y="405" font-size="15">• Änderungen erscheinen mit einem kurzen Hinweis.</text>
+<text x="312" y="451" font-size="13" fill="#647587">Keine privaten Texte · keine zusätzlichen Icon-Bibliotheken</text>
+<rect x="40" y="492" width="496" height="120" fill="white" stroke="#c5d0d9"/>
+<text x="58" y="523" font-size="16" font-weight="bold">Bei der Registrierung</text>
+<text x="58" y="551" font-size="14" fill="#215f89">Regeln lesen ↗</text>
+<rect x="58" y="568" width="15" height="15" fill="white" stroke="#708697"/>
+<text x="84" y="581" font-size="13">Ich habe die Regeln gelesen und akzeptiere sie.</text>
+<rect x="552" y="492" width="508" height="120" fill="white" stroke="#c5d0d9"/>
+<text x="570" y="523" font-size="16" font-weight="bold">ACP → Konfiguration → RPG-Regelwerk</text>
+<text x="570" y="553" font-size="14">Inhalte · Kategorien · Links · Einstellungen</text>
+<text x="570" y="583" font-size="14">Zustimmungen mit Fassung und Zeitpunkt</text>
+<text x="40" y="650" font-size="13" fill="#647587">Schematische Demo · Die tatsächliche Darstellung passt sich dem installierten Theme an.</text>
+</g></svg>
